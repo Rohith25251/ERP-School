@@ -23,7 +23,7 @@ const Sidebar = () => {
                         <FaUniversity className="text-white text-xl" />
                     </div>
                     <div>
-                        <h1 className="text-lg font-bold text-white tracking-wide leading-tight">CopterCode</h1>
+                        <h1 className="text-lg font-bold text-white tracking-wide leading-tight">ABC</h1>
                         <p className="text-xs text-indigo-400 font-medium tracking-wider">FINANCE CORE</p>
                     </div>
                 </div>
